@@ -42,13 +42,7 @@
 	},
 	"Network Neutrality": {
 		"blocks_SMTP_authent": "",
-		"blocks_P2P": "",
-		"supports_TCP_port_443": "",
-		"supports_obfsproxy": "",
-		"supports_socks": "",
-		"supports_ssl_tunnel": "",
-		"supports_ssh_tunnel": "",
-		"avoidance_other_proprietary_protocols": ""
+		"blocks_P2P": ""
 	},
 	"Data Encryption": {
 		"default": "",
