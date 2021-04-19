@@ -1,0 +1,82 @@
+{
+	"name": "",
+	"website": "",
+	"juridiction": {
+		"location": "",
+		"owned": ""
+	},
+	"LOGGING": {
+		"activity": {
+			"traffic": "",
+			"dns_requests": ""
+		},
+		"connection": {
+			"timestamps": "",
+			"bandwidth": "",
+			"ip_address": ""
+		}
+	},
+	"ACTIVISM": {
+		"anonymous_payment_method": "",
+		"accepts_cash": "",
+		"accepts_gift_cards": "",
+		"accepts_crypto_currency": "",
+		"pgp_key_available": "",
+		"give_back_to_privacy": "",
+		"meets_privacytoolsio_criteria": ""
+	},
+	"Leak Protection": {
+		"1st_party_dns_servers": "",
+		"IPv6_supported_blocked": ""
+	},
+	"Obfuscation / Censorship Avoidance": {
+		"offers_openvpn": "",
+		"offers_wireguard": "",
+		"supports_multihop": "",
+		"supports_TCP_port_443": "",
+		"supports_obfsproxy": "",
+		"supports_socks": "",
+		"supports_ssl_tunnel": "",
+		"supports_ssh_tunnel": "",
+		"avoidance_other_proprietary_protocols": ""
+	},
+	"Network Neutrality": {
+		"blocks_SMTP_authent": "",
+		"blocks_P2P": "",
+		"supports_TCP_port_443": "",
+		"supports_obfsproxy": "",
+		"supports_socks": "",
+		"supports_ssl_tunnel": "",
+		"supports_ssh_tunnel": "",
+		"avoidance_other_proprietary_protocols": ""
+	},
+	"Data Encryption": {
+		"default": "",
+		"best": ""
+	},
+	"Handshake Encryption": {
+		"weakest": "",
+		"strongest": ""
+	},
+	"AVAILABILITY": {
+		"simultaneous_connections": "",
+		"countries": "",
+		"servers": "",
+		"supports_linux": "",
+		"price": ""
+	},
+	"WEBSITE": {
+		"persistent_cookies": "",
+		"external_trackers": "",
+		"proprietary_APIs": "",
+		"server_SSL_Rating": "",
+		"SSL_certificate_issued_to": ""
+	},
+	"ETHICS": {
+		"contradictory_logging_policies": "",
+		"incensitivizes_media_spam": "",
+		"proprietary_APIs": "",
+		"server_SSL_Rating": "",
+		"SSL_certificate_issued_to": ""
+	}
+}
