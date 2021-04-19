@@ -1,0 +1,138 @@
+{
+	"vpns": [{
+			"name": "AceVPN",
+			"website": "https://www.acevpn.com/",
+			"juridiction": {
+				"location": "USA"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": true,
+					"ip_address": true
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "false",
+				"accepts_cash": "false",
+				"accepts_gift_cards": "false",
+				"accepts_crypto_currency": "false",
+				"pgp_key_available": "false",
+				"give_back_to_privacy": "false",
+				"meets_privacytoolsio_criteria": "false"
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "false",
+				"IPv6_supported_blocked": "false"
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": "true",
+				"supports_TCP_port_443": "true",
+				"supports_obfsproxy": true
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "true",
+				"blocks_P2P": "some"
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": 2,
+				"countries": 25,
+				"price": 15
+			},
+			"WEBSITE": {
+				"persistent_cookies": 5,
+				"external_trackers": 1,
+				"server_SSL_Rating": "B",
+				"SSL_certificate_issued_to": "Clodflare"
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": true,
+				"incensitivizes_media_spam": true
+			}
+		},
+		{
+			"name": "NordVPN",
+			"website": "https://nordvpn.com/",
+			"juridiction": {
+				"location": "Panama"
+			},
+			"LOGGING": {
+				"activity": {
+					"traffic": false
+				},
+				"connection": {
+					"timestamps": false,
+					"bandwidth": false,
+					"ip_address": false
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "email",
+				"accepts_cash": false,
+				"accepts_gift_cards": false,
+				"accepts_crypto_currency": true,
+				"pgp_key_available": true,
+				"give_back_to_privacy": true,
+				"meets_privacytoolsio_criteria": true
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": true,
+				"IPv6_supported_blocked": true
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_multihop": true,
+				"supports_TCP_port_443": true,
+				"supports_obfsproxy": true,
+				"supports_socks": true,
+				"supports_ssl_tunnel": true
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": false,
+				"blocks_P2P": "some"
+			},
+			"Data Encryption": {
+				"default": "AES-256",
+				"best": "AES-256"
+			},
+			"Handshake Encryption": {
+				"strongest": "RSA-2048"
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": 6,
+				"countries": 62,
+				"servers": 4192,
+				"supports_linux": true,
+				"price": 5.75
+			},
+			"WEBSITE": {
+				"persistent_cookies": 5,
+				"external_trackers": 1,
+				"proprietary_APIs": 3,
+				"server_SSL_Rating": "A",
+				"SSL_certificate_issued_to": "self"
+			}
+		}
+	],
+	"ennemies": [
+		"Bahrain",
+		"Belarus",
+		"Bangladesh",
+		"China",
+		"Cuba",
+		"Ethiopia",
+		"India",
+		"Iran",
+		"North Korea",
+		"Pakistan",
+		"Russia",
+		"Saudi Arabia",
+		"Sudan",
+		"Syria",
+		"Turkmenistan",
+		"UAE",
+		"UK",
+		"USA",
+		"Uzbekistan",
+		"Vietnam"
+	]
+}
