@@ -62,7 +62,6 @@
 	"WEBSITE": {
 		"persistent_cookies": "",
 		"external_trackers": "",
-		"proprietary_APIs": "",
 		"server_SSL_Rating": "",
 		"SSL_certificate_issued_to": ""
 	},
