@@ -1,115 +1,3170 @@
 {
 	"vpns": [{
-			"name": "AceVPN",
-			"website": "https://www.acevpn.com/",
+			"name": "AirVPN",
+			"website": "https://airvpn.org/",
 			"juridiction": {
-				"location": "USA"
+				"location": "Italy",
+				"owned": "Paolo Brini"
 			},
 			"LOGGING": {
 				"connection": {
-					"timestamps": true,
-					"ip_address": true
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
 				}
 			},
 			"ACTIVISM": {
-				"anonymous_payment_method": "false",
-				"accepts_cash": "false",
-				"accepts_gift_cards": "false",
-				"accepts_crypto_currency": "false",
-				"pgp_key_available": "false",
-				"give_back_to_privacy": "false",
-				"meets_privacytoolsio_criteria": "false"
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
 			},
 			"Leak Protection": {
-				"1st_party_dns_servers": "false",
-				"IPv6_supported_blocked": "false"
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
 			},
 			"Obfuscation / Censorship Avoidance": {
-				"offers_openvpn": "true",
-				"supports_TCP_port_443": "true",
-				"supports_obfsproxy": true
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
 			},
 			"Network Neutrality": {
-				"blocks_SMTP_authent": "true",
-				"blocks_P2P": "some"
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
 			},
 			"AVAILABILITY": {
-				"simultaneous_connections": 2,
-				"countries": 25,
-				"price": 15
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 4.97,
+				"servers": "",
+				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": 5,
-				"external_trackers": 1,
-				"server_SSL_Rating": "B",
-				"SSL_certificate_issued_to": "Clodflare"
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
 			},
 			"ETHICS": {
-				"contradictory_logging_policies": true,
-				"incensitivizes_media_spam": true
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Astrill",
+			"website": "https://www.astrill.com/",
+			"juridiction": {
+				"location": "Seychelles",
+				"owned": "Astrill Systems Corp"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 7.5,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Azire VPN",
+			"website": "https://www.azirevpn.com/",
+			"juridiction": {
+				"location": "Sweden",
+				"owned": "Netbouncer AB"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 3.75,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Atlas VPN",
+			"website": "https://atlasvpn.com/",
+			"juridiction": {
+				"location": "USA",
+				"owned": "Jim Roberts, Peakstar Technologies Inc."
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": false,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 2.49,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "BeetVPN",
+			"website": "https://www.beetvpn.com/",
+			"juridiction": {
+				"location": "Undisclosed",
+				"owned": "Undisclosed"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": false,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 3.59,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Betternet",
+			"website": "https://www.betternet.co/",
+			"juridiction": {
+				"location": "Canada",
+				"owned": "Not found"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": false,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": 7.99,
+				"price": "",
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Cactus VPN",
+			"website": "https://www.cactusvpn.com/",
+			"juridiction": {
+				"location": "Canada",
+				"owned": "Sergiu Candja"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 4.67,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Celo VPN",
+			"website": "https://celo.net/",
+			"juridiction": {
+				"location": "Australia",
+				"owned": "Not found"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 6,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "CyberGhost",
+			"website": "https://www.cyberghostvpn.com/",
+			"juridiction": {
+				"location": "Romania",
+				"owned": "Kape Technologies"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 3.99,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Express VPN",
+			"website": "https://www.expressvpn.com/",
+			"juridiction": {
+				"location": "British Virgin Islands",
+				"owned": "Kape Technologies"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 8.34,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Fastest VPN",
+			"website": "https://fastestvpn.com/",
+			"juridiction": {
+				"location": "Cayman Islands",
+				"owned": "Azneem Bilwani of ABTACH Ltd"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 2.5,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "F-Secure freedome",
+			"website": "https://www.f-secure.com/",
+			"juridiction": {
+				"location": "Finland",
+				"owned": "Petri Allas Risto Siilasmaa"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 2.92,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "GooseVPN",
+			"website": "https://goosevpn.com/",
+			"juridiction": {
+				"location": "Netherlands",
+				"owned": "Joeri van de Watering"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 5,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Hide.Me",
+			"website": "https://hide.me/",
+			"juridiction": {
+				"location": "Malaysia",
+				"owned": "Leon Juranic, Founder and CEO of Defense Code Ltd."
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 8.34,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "HideMyAss",
+			"website": "https://www.hidemyass.com/",
+			"juridiction": {
+				"location": "UK",
+				"owned": "Avast"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 4.99,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Hotspot shield",
+			"website": "https://www.hotspotshield.com/",
+			"juridiction": {
+				"location": "USA",
+				"owned": "AnchorFree/David Gorodyansky"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 7.99,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "IPVanish",
+			"website": "https://www.ipvanish.com/",
+			"juridiction": {
+				"location": "USA",
+				"owned": "Mudhook Media Inc./Highwinds Network Group"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 7.5,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Ivacy",
+			"website": "https://www.ivacy.com/",
+			"juridiction": {
+				"location": "Singapore",
+				"owned": "Not found"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 3.67,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "iVPN",
+			"website": "https://www.ivpn.net/",
+			"juridiction": {
+				"location": "Gibraltar",
+				"owned": "Nicholas Pestell / Privatus Limited"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 8.34,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Mullvad VPN",
+			"website": "https://mullvad.net/",
+			"juridiction": {
+				"location": "Sweden",
+				"owned": "Fredrik Strömberg and Daniel Berntsson / Amagicom AB INC."
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 5,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
 			}
 		},
 		{
 			"name": "NordVPN",
 			"website": "https://nordvpn.com/",
 			"juridiction": {
-				"location": "Panama"
+				"location": "Panama",
+				"owned": "NordSec"
 			},
 			"LOGGING": {
-				"activity": {
-					"traffic": false
-				},
 				"connection": {
-					"timestamps": false,
-					"bandwidth": false,
-					"ip_address": false
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
 				}
 			},
 			"ACTIVISM": {
-				"anonymous_payment_method": "email",
-				"accepts_cash": false,
-				"accepts_gift_cards": false,
-				"accepts_crypto_currency": true,
-				"pgp_key_available": true,
-				"give_back_to_privacy": true,
-				"meets_privacytoolsio_criteria": true
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
 			},
 			"Leak Protection": {
-				"1st_party_dns_servers": true,
-				"IPv6_supported_blocked": true
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
 			},
 			"Obfuscation / Censorship Avoidance": {
 				"offers_openvpn": true,
-				"supports_multihop": true,
-				"supports_TCP_port_443": true,
-				"supports_obfsproxy": true,
-				"supports_socks": true,
-				"supports_ssl_tunnel": true
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
 			},
 			"Network Neutrality": {
-				"blocks_SMTP_authent": false,
-				"blocks_P2P": "some"
-			},
-			"Data Encryption": {
-				"default": "AES-256",
-				"best": "AES-256"
-			},
-			"Handshake Encryption": {
-				"strongest": "RSA-2048"
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
 			},
 			"AVAILABILITY": {
-				"simultaneous_connections": 6,
-				"countries": 62,
-				"servers": 4192,
-				"supports_linux": true,
-				"price": 5.75
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 4.92,
+				"servers": "",
+				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": 5,
-				"external_trackers": 1,
-				"proprietary_APIs": 3,
-				"server_SSL_Rating": "A",
-				"SSL_certificate_issued_to": "self"
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Ovpn",
+			"website": "https://www.ovpn.com",
+			"juridiction": {
+				"location": "Sweden",
+				"owned": "David Wibergh and Ruben Rehn / Integritet AB."
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 4.99,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Perfect Privacy",
+			"website": "https://www.perfect-privacy.com/",
+			"juridiction": {
+				"location": "Switzerland",
+				"owned": "Vectura Data management Limited"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 10,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Phantom VPN",
+			"website": "https://www.avira.com/en/free-vpn",
+			"juridiction": {
+				"location": "Germany",
+				"owned": "Avira"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": false,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 6.5,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "PrivadoVPN",
+			"website": "https://privadovpn.com/",
+			"juridiction": {
+				"location": "Switzerland",
+				"owned": "Privado Networks AG"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 4.99,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Private Internet Access",
+			"website": "https://www.privateinternetaccess.com/",
+			"juridiction": {
+				"location": "USA",
+				"owned": "Kape Technologies"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 3.34,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "ProtonVPN",
+			"website": "https://protonvpn.com/",
+			"juridiction": {
+				"location": "Switzerland",
+				"owned": "Proton Technologies AG"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 4,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "PureVPN",
+			"website": "https://www.purevpn.com/",
+			"juridiction": {
+				"location": "Hong Kong",
+				"owned": "GZ Systems Limited"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 5.83,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "SaferVPN",
+			"website": "https://www.safervpn.com/",
+			"juridiction": {
+				"location": "USA",
+				"owned": "Safer Social Ltd"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 5.5,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Strong VPN",
+			"website": "https://strongvpn.com/",
+			"juridiction": {
+				"location": "USA",
+				"owned": "J2 Global"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 2.34,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Surfshark",
+			"website": "https://surfshark.com/",
+			"juridiction": {
+				"location": "Netherlands",
+				"owned": "Surfshark Ltd"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 6.49,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "tigerVPN",
+			"website": "https://www.tigervpn.com/",
+			"juridiction": {
+				"location": "Slovakia",
+				"owned": "Not found"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 14.16,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Torguard",
+			"website": "https://torguard.net/",
+			"juridiction": {
+				"location": "USA",
+				"owned": "Benjamin Van Pelt"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 5,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Trust.Zone",
+			"website": "https://trust.zone/",
+			"juridiction": {
+				"location": "Seychelles",
+				"owned": "Trusted Solutions Ltd"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 3.33,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "TunnelBear",
+			"website": "https://www.tunnelbear.com/",
+			"juridiction": {
+				"location": "Canada",
+				"owned": "McAfee"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 4.99,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "VPN.ac",
+			"website": "https://vpn.ac/",
+			"juridiction": {
+				"location": "Bucharest",
+				"owned": "Netsec Interactive Solutions"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 4.84,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "VPNArea",
+			"website": "https://vpnarea.com/",
+			"juridiction": {
+				"location": "Bulgaria",
+				"owned": "Offshore Security EOOD"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 4.13,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "VPNHub",
+			"website": "https://www.vpnhub.com/",
+			"juridiction": {
+				"location": "USA",
+				"owned": "AppAtomic"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 6.99,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "VPN Unlimited",
+			"website": "https://www.vpnunlimited.com/",
+			"juridiction": {
+				"location": "USA",
+				"owned": "KeepSolid Inc / Vasiliy Ivanov, Oleg Bocharnikov"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 5,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "VPNSecure",
+			"website": "https://www.vpnsecure.me/",
+			"juridiction": {
+				"location": "Australia",
+				"owned": "Not found"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 6.67,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "VyprVPN",
+			"website": "https://www.vyprvpn.com/",
+			"juridiction": {
+				"location": "Switzerland",
+				"owned": "GoldenFrog GmbH"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 3.75,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "WeVPN",
+			"website": "https://wevpn.com/",
+			"juridiction": {
+				"location": "British Virgin Islands",
+				"owned": "Jonathan Roudier"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 4.17,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Windscribe",
+			"website": "https://windscribe.com/",
+			"juridiction": {
+				"location": "Canada",
+				"owned": "Yegor Sak"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 4.1,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
+			}
+		},
+		{
+			"name": "Zenmate",
+			"website": "https://zenmate.com/",
+			"juridiction": {
+				"location": "Germany",
+				"owned": "Kape Technologies"
+			},
+			"LOGGING": {
+				"connection": {
+					"timestamps": "",
+					"ip_address": "",
+					"bandwidth": ""
+				},
+				"activity": {
+					"traffic": "",
+					"dns_requests": ""
+				}
+			},
+			"ACTIVISM": {
+				"anonymous_payment_method": "",
+				"accepts_cash": "",
+				"accepts_gift_cards": "",
+				"accepts_crypto_currency": "",
+				"pgp_key_available": "",
+				"give_back_to_privacy": "",
+				"meets_privacytoolsio_criteria": ""
+			},
+			"Leak Protection": {
+				"1st_party_dns_servers": "",
+				"IPv6_supported_blocked": ""
+			},
+			"Obfuscation / Censorship Avoidance": {
+				"offers_openvpn": true,
+				"supports_TCP_port_443": "",
+				"supports_obfsproxy": "",
+				"offers_wireguard": "",
+				"supports_multihop": "",
+				"supports_socks": "",
+				"supports_ssl_tunnel": "",
+				"supports_ssh_tunnel": "",
+				"avoidance_other_proprietary_protocols": ""
+			},
+			"Network Neutrality": {
+				"blocks_SMTP_authent": "",
+				"blocks_P2P": ""
+			},
+			"AVAILABILITY": {
+				"simultaneous_connections": "",
+				"countries": "",
+				"price": 1.68,
+				"servers": "",
+				"supports_linux": ""
+			},
+			"WEBSITE": {
+				"persistent_cookies": "",
+				"external_trackers": "",
+				"server_SSL_Rating": "",
+				"SSL_certificate_issued_to": ""
+			},
+			"ETHICS": {
+				"contradictory_logging_policies": "",
+				"incensitivizes_media_spam": ""
+			},
+			"Data Encryption": {
+				"default": "",
+				"best": ""
+			},
+			"Handshake Encryption": {
+				"weakest": "",
+				"strongest": ""
 			}
 		}
 	],
