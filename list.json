@@ -53,10 +53,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 5,
+				"external_trackers": 0,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "R3"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -125,10 +125,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 9,
+				"external_trackers": 4,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "R3"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -197,10 +197,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 4,
+				"external_trackers": 0,
+				"server_SSL_Rating": "B",
+				"SSL_certificate_issued_to": "R3"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -269,10 +269,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 8,
+				"external_trackers": 6,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "Cloudflare"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -341,10 +341,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 4,
+				"external_trackers": 3,
+				"server_SSL_Rating": "A",
+				"SSL_certificate_issued_to": "Amazon"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -413,10 +413,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 18,
+				"external_trackers": 8,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "Cloudflare"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -485,10 +485,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 6,
+				"external_trackers": 3,
+				"server_SSL_Rating": "B",
+				"SSL_certificate_issued_to": "Cloudflare"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -557,10 +557,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 9,
+				"external_trackers": 6,
+				"server_SSL_Rating": "B",
+				"SSL_certificate_issued_to": "Cloudflare"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -629,10 +629,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 14,
+				"external_trackers": 2,
+				"server_SSL_Rating": "B",
+				"SSL_certificate_issued_to": "Sectigo"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -701,10 +701,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 20,
+				"external_trackers": 6,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "Amazon"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -773,10 +773,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 17,
+				"external_trackers": 7,
+				"server_SSL_Rating": "B",
+				"SSL_certificate_issued_to": "Cloudflare"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -845,10 +845,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 16,
+				"external_trackers": 7,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "DigiCert"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -917,10 +917,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 22,
+				"external_trackers": 7,
+				"server_SSL_Rating": "A",
+				"SSL_certificate_issued_to": "R3"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -989,10 +989,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 1,
+				"external_trackers": 0,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "DigiCert"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -1061,10 +1061,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 24,
+				"external_trackers": 8,
+				"server_SSL_Rating": "B",
+				"SSL_certificate_issued_to": "DigiCert"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -1133,10 +1133,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 33,
+				"external_trackers": 8,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "Cloudflare"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -1205,10 +1205,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 25,
+				"external_trackers": 7,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "Sectigo"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -1277,10 +1277,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 15,
+				"external_trackers": 4,
+				"server_SSL_Rating": "A",
+				"SSL_certificate_issued_to": "Cloudflare"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -1349,10 +1349,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 5,
+				"external_trackers": 2,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "R3"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -1421,10 +1421,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 0,
+				"external_trackers": 0,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "R3"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -1493,10 +1493,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 24,
+				"external_trackers": 6,
+				"server_SSL_Rating": "B",
+				"SSL_certificate_issued_to": "Sectigo"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -1565,10 +1565,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 7,
+				"external_trackers": 3,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "ZeroSSL"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -1637,10 +1637,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 5,
+				"external_trackers": 2,
+				"server_SSL_Rating": "B",
+				"SSL_certificate_issued_to": "Sectigo"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -1709,10 +1709,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 13,
+				"external_trackers": 3,
+				"server_SSL_Rating": "A",
+				"SSL_certificate_issued_to": "DigiCert"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -1781,10 +1781,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 18,
+				"external_trackers": 5,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "R3"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -1853,10 +1853,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 18,
+				"external_trackers": 5,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "Go Daddy"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -1925,10 +1925,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 2,
+				"external_trackers": 0,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "R3"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -1997,10 +1997,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 29,
+				"external_trackers": 6,
+				"server_SSL_Rating": "A",
+				"SSL_certificate_issued_to": "Cloudflare"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -2069,10 +2069,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 2,
+				"external_trackers": 0,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "Cloudflare"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -2141,10 +2141,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 23,
+				"external_trackers": 8,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "R3"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -2213,10 +2213,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 23,
+				"external_trackers": 6,
+				"server_SSL_Rating": "B",
+				"SSL_certificate_issued_to": "Cloudflare"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -2285,10 +2285,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 9,
+				"external_trackers": 3,
+				"server_SSL_Rating": "B",
+				"SSL_certificate_issued_to": "RapidSSL"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -2357,10 +2357,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 1,
+				"external_trackers": 1,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "DigiCert"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -2429,10 +2429,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 3,
+				"external_trackers": 1,
+				"server_SSL_Rating": "B",
+				"SSL_certificate_issued_to": "DigiCert"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -2501,10 +2501,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 21,
+				"external_trackers": 6,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "Sectigo"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -2573,10 +2573,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 0,
+				"external_trackers": 0,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "Sectigo"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -2645,10 +2645,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 13,
+				"external_trackers": 6,
+				"server_SSL_Rating": "B",
+				"SSL_certificate_issued_to": "Cloudflare"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -2717,10 +2717,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 16,
+				"external_trackers": 3,
+				"server_SSL_Rating": "A",
+				"SSL_certificate_issued_to": "R3"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -2789,10 +2789,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 11,
+				"external_trackers": 4,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "Sectigo"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -2861,10 +2861,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 9,
+				"external_trackers": 3,
+				"server_SSL_Rating": "B",
+				"SSL_certificate_issued_to": "Cloudflare"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -2933,10 +2933,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 2,
+				"external_trackers": 1,
+				"server_SSL_Rating": "A",
+				"SSL_certificate_issued_to": "Amazon"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -3005,10 +3005,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 20,
+				"external_trackers": 7,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "Sectigo"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -3077,10 +3077,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 1,
+				"external_trackers": 0,
+				"server_SSL_Rating": "A+",
+				"SSL_certificate_issued_to": "Cloudflare"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
@@ -3149,10 +3149,10 @@
 				"supports_linux": ""
 			},
 			"WEBSITE": {
-				"persistent_cookies": "",
-				"external_trackers": "",
-				"server_SSL_Rating": "",
-				"SSL_certificate_issued_to": ""
+				"persistent_cookies": 22,
+				"external_trackers": 6,
+				"server_SSL_Rating": "B",
+				"SSL_certificate_issued_to": "Cloudflare"
 			},
 			"ETHICS": {
 				"contradictory_logging_policies": "",
