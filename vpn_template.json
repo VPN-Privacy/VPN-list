@@ -7,7 +7,7 @@
 	},
 	"LOGGING": {
 		"activity": {
-			"traffic": "",
+			"browsing": "",
 			"dns_requests": ""
 		},
 		"connection": {
