@@ -8,12 +8,12 @@
 			},
 			"LOGGING": {
 				"connection": {
-					"timestamps": "",
-					"ip_address": "",
-					"bandwidth": ""
+					"timestamps": "No",
+					"ip_address": "No",
+					"bandwidth": "Yes"
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "No",
 					"dns_requests": ""
 				}
 			},
@@ -85,7 +85,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -157,7 +157,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -229,7 +229,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -301,7 +301,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -373,7 +373,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -445,7 +445,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -517,7 +517,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -584,12 +584,12 @@
 			},
 			"LOGGING": {
 				"connection": {
-					"timestamps": "",
-					"ip_address": "",
-					"bandwidth": ""
+					"timestamps": "Aggregated",
+					"ip_address": "No",
+					"bandwidth": "No"
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "No",
 					"dns_requests": ""
 				}
 			},
@@ -656,12 +656,12 @@
 			},
 			"LOGGING": {
 				"connection": {
-					"timestamps": "",
-					"ip_address": "",
-					"bandwidth": ""
+					"timestamps": "Yes",
+					"ip_address": "No",
+					"bandwidth": "Yes"
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "No",
 					"dns_requests": ""
 				}
 			},
@@ -733,7 +733,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -800,12 +800,12 @@
 			},
 			"LOGGING": {
 				"connection": {
-					"timestamps": "",
-					"ip_address": "",
-					"bandwidth": ""
+					"timestamps": "Yes",
+					"ip_address": "Yes",
+					"bandwidth": "Yes"
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "Yes",
 					"dns_requests": ""
 				}
 			},
@@ -877,7 +877,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -949,7 +949,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -1021,7 +1021,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -1093,7 +1093,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -1156,16 +1156,16 @@
 			"website": "https://www.ipvanish.com/",
 			"juridiction": {
 				"location": "USA",
-				"owned": "Mudhook Media Inc./Highwinds Network Group"
+				"owned": "Ziff Davis group"
 			},
 			"LOGGING": {
 				"connection": {
-					"timestamps": "",
-					"ip_address": "",
-					"bandwidth": ""
+					"timestamps": "No",
+					"ip_address": "No",
+					"bandwidth": "No"
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "No",
 					"dns_requests": ""
 				}
 			},
@@ -1237,7 +1237,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -1304,12 +1304,12 @@
 			},
 			"LOGGING": {
 				"connection": {
-					"timestamps": "",
-					"ip_address": "",
-					"bandwidth": ""
+					"timestamps": "Session limited",
+					"ip_address": "No",
+					"bandwidth": "No"
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "No",
 					"dns_requests": ""
 				}
 			},
@@ -1376,12 +1376,12 @@
 			},
 			"LOGGING": {
 				"connection": {
-					"timestamps": "",
-					"ip_address": "",
-					"bandwidth": ""
+					"timestamps": "Session limited",
+					"ip_address": "No",
+					"bandwidth": "Aggregated"
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "No",
 					"dns_requests": ""
 				}
 			},
@@ -1448,12 +1448,12 @@
 			},
 			"LOGGING": {
 				"connection": {
-					"timestamps": "",
-					"ip_address": "",
-					"bandwidth": ""
+					"timestamps": "No",
+					"ip_address": "No",
+					"bandwidth": "Aggregated"
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "No",
 					"dns_requests": ""
 				}
 			},
@@ -1525,7 +1525,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -1597,7 +1597,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -1669,7 +1669,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -1741,7 +1741,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -1808,12 +1808,12 @@
 			},
 			"LOGGING": {
 				"connection": {
-					"timestamps": "",
-					"ip_address": "",
-					"bandwidth": ""
+					"timestamps": "No",
+					"ip_address": "No",
+					"bandwidth": "No"
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "No",
 					"dns_requests": ""
 				}
 			},
@@ -1885,7 +1885,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -1957,7 +1957,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -2029,7 +2029,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -2092,16 +2092,16 @@
 			"website": "https://strongvpn.com/",
 			"juridiction": {
 				"location": "USA",
-				"owned": "J2 Global"
+				"owned": "Ziff Davis group"
 			},
 			"LOGGING": {
 				"connection": {
-					"timestamps": "",
-					"ip_address": "",
-					"bandwidth": ""
+					"timestamps": "No",
+					"ip_address": "No",
+					"bandwidth": "No"
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "No",
 					"dns_requests": ""
 				}
 			},
@@ -2164,16 +2164,16 @@
 			"website": "https://surfshark.com/",
 			"juridiction": {
 				"location": "Netherlands",
-				"owned": "Surfshark Ltd"
+				"owned": "NordSec"
 			},
 			"LOGGING": {
 				"connection": {
-					"timestamps": "",
-					"ip_address": "",
-					"bandwidth": ""
+					"timestamps": "Yes",
+					"ip_address": "No",
+					"bandwidth": "No"
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "No",
 					"dns_requests": ""
 				}
 			},
@@ -2245,7 +2245,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -2317,7 +2317,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -2389,7 +2389,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -2461,7 +2461,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -2533,7 +2533,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -2605,7 +2605,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -2677,7 +2677,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -2749,7 +2749,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -2821,7 +2821,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -2893,7 +2893,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -2965,7 +2965,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -3037,7 +3037,7 @@
 					"bandwidth": ""
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "",
 					"dns_requests": ""
 				}
 			},
@@ -3104,12 +3104,12 @@
 			},
 			"LOGGING": {
 				"connection": {
-					"timestamps": "",
-					"ip_address": "",
-					"bandwidth": ""
+					"timestamps": "Aggregated",
+					"ip_address": "No",
+					"bandwidth": "Aggregated"
 				},
 				"activity": {
-					"traffic": "",
+					"browsing": "No",
 					"dns_requests": ""
 				}
 			},
